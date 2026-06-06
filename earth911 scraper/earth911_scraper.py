@@ -467,7 +467,7 @@ def main():
     """Main execution function"""
     
     # Configuration with your OpenAI API key
-    OPENAI_API_KEY = "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"
+    OPENAI_API_KEY = "YOUR API KEY "
     
     # Search configuration
     SEARCH_CONFIG = {
